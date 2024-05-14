@@ -1,2 +1,2 @@
-# visual-regression-backstop-azure
+# magento-store-tests-azure
 Repository for azure DevOps studies
